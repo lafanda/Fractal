@@ -1,0 +1,125 @@
+.text-center{
+  text-align: center;
+}
+
+.white{
+  color: white;
+}
+
+
+/** Navigation Bar **/
+
+#navBar{
+  background-color:#18191A;
+  height:fit-content;
+  font-family: 'Montserrat', sans-serif;
+}
+.logo{
+  height:95px;
+  padding: 0 20px 10px 10px;
+  filter: opacity(0.5) drop-shadow(0 0 0 #FFD650);
+}
+
+.navbar-brand{
+  font-family: "Rouge Script",serif;
+  font-size: 60px;
+}
+
+.navbar{
+  padding: 0;
+}
+
+.nav-item{
+  padding: 0 25px;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+/** Title Page **/
+
+
+#title{
+background-color:black;
+padding: 9% 3% 9% 0;
+}
+
+.buttonsContainer{
+  padding-left:130px;
+}
+
+
+.btn{
+  margin-right: 55px ;
+  margin-bottom:40px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+  font-family: 'Volkhov', serif;
+  font-size: 420%;
+  padding-bottom: 45px;
+  padding-left: 130px;
+}
+
+
+/** Title Page **/
+
+
+#features{
+  padding-top: 8%;
+  padding-bottom: 3%;
+}
+
+.featureHeader{
+  padding-bottom: 12px;
+  font-family: 'Montserrat-Bold', sans-serif;
+  font-weight: Bolder;
+}
+.featureText{
+  font-family: 'Montserrat', sans-serif;
+  padding-bottom: 70px;
+}
+
+.icon{
+  font-size: 50px;
+  color: #4c401c;
+}
+
+/** Product Carousel **/
+#products{
+  padding: 9% 15%;
+  text-align: center;
+  background-color: black;
+}
+
+.carouselIcon{
+  height: 200px;
+}
+
+.carousel-control-prev{
+  font-size:35px;
+  padding:90px 50px 0 0;
+}
+
+.carousel-control-next{
+  font-size:35px;
+  padding:90px 0 0 50px;
+}
+
+h2{
+  font-family: 'Volkhov', serif;
+  font-size: 45px;
+  padding-bottom: 100px;
+}
+
+h3{
+  font-family: 'Volkhov', serif;
+  font-size: 38px;
+  padding-bottom: 20px;
+}
+
+/** Purchase Display **/
+.productDisplay{
+  padding: 20px 0;
+  font-size: 80px;
+}
